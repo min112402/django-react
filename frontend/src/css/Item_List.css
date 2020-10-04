@@ -1,0 +1,17 @@
+.ItemList {
+  padding-top: 84px;
+}
+
+.line{
+  border: 5px solid black;
+}
+
+.i-nav{
+    padding-top: 10px;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.lists{
+  display: flex;
+}
